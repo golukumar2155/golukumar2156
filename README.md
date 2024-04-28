@@ -16,7 +16,7 @@
 <a href="https://twitter.com/@golukumar1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@golukumar1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/golukumar2555" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="golukumar2555" height="30" width="40" /></a>
 <a href="https://instagram.com/golusiddharth84" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="golusiddharth84" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/golukumar50" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="golukumar50" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/golukumar75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="golukumar50" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
